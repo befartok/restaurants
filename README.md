@@ -17,7 +17,9 @@
 https://chimerical-gumdrop-e11296.netlify.app</p>
 
 
-
+<p align="center">
+      <img src="https://github.com/befartok/Shop/blob/master/template/images/home/image%201.png" width="200">
+</p>
 
 
 
